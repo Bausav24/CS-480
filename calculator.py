@@ -145,6 +145,7 @@ def evalRPN(tokens) -> int:
 if __name__ == '__main__':
     temp = ""
     while temp != "exit":
+        #This is calculator info
         print('\nWelcome to advanced calculator on  console!!')
         print('This calculator requires you to be cautious while inserting your math operators.')
         print('You need to add space after each operators as shown in the below line otherwise you will get error.')
